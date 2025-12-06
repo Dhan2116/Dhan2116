@@ -52,9 +52,6 @@ I love building intelligent systems that solve real-world problems using **Pytho
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhan&show_icons=true&theme=radical" alt="stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dhan&theme=radical&hide_border=true" />
