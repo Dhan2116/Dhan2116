@@ -60,23 +60,7 @@ I love building intelligent systems that solve real-world problems using **Pytho
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dhan&theme=radical&hide_border=true" />
 </p>
 
----
-
-### 🏗️ Featured Projects
-
-#### 🔹 **AI-powered Retrieval System**
-LLM-based tool that processes large documents and answers questions using embeddings + context-aware retrieval.
-
-#### 🔹 **Retail Customer Segmentation**
-RFM analysis + clustering + KPI dashboard using Pandas, Scikit-learn, and PowerBI/Streamlit.
-
-#### 🔹 **Movie Journal Backend**
-Flask backend with CSV data store and REST API support.
-
-#### 🔹 **Data Analytics Projects**
-Time-series analysis, EDA reports, visualization dashboards, and predictive modeling.
-
----
+---git
 
 ### 📬 Connect With Me  
 <p align="left">
