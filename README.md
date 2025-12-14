@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me  
-I'm a passionate developer focused on **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**.  
+I'm a passionate developer focused on **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**!!! 
 I love building intelligent systems that solve real-world problems using **Python**, **ML pipelines**, **data processing**, and **LLM-powered applications**.
 
 - 🔭 I’m currently working on: **End-to-End LLM Pipelines & AI-powered Retrieval Systems**  
